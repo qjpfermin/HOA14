@@ -1,0 +1,4 @@
+
+- import_tasks: glance.yaml
+- import_tasks: keystone.yaml
+- import_tasks: nova.yaml
